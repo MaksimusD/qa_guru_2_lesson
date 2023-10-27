@@ -2,7 +2,8 @@ package guru.qa;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello Push world!");
+        System.out.println("Hello My world!");
     }
-int push = 1;
+int raz = 1;
+    int dva = 2;
 }
