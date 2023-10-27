@@ -1,7 +1,8 @@
 package guru.qa;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello QA world!");
+        System.out.println("Hello Push world!");
     }
 int push = 1;
 }
